@@ -1,1 +1,5 @@
-# hello-world
+- 👋 Hi, I’m @pandajitsu, aka Rob Saxon
+- 👀 I’m interested in ... emerging technologies, leading and contributing to a better world.
+- 🌱 I’m currently learning ...how to be better at sales, piano, guitar, a bit of Hebrew and Aramaic, jiu jitsu
+- 💞️ I’m looking to collaborate on ... a mentor relationship with a technologiest who is eager to share their skills
+- 📫 How to reach me ... f r e h e n d a @ g m a i l com
